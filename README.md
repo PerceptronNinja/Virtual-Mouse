@@ -22,21 +22,6 @@ This project is a Python-based hand gesture control system using OpenCV, MediaPi
 - PyAutoGUI
 - Pynput
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd Student-Score-prediction
-   ```
-3. **Install the required Python packages**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
    If you don't have a `requirements.txt` file yet, you can create one with the following content:
    ```
    opencv-python
