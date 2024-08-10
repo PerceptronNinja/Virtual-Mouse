@@ -26,7 +26,7 @@ This project is a Python-based hand gesture control system using OpenCV, MediaPi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Utkarshhard/Student-Score-prediction.git
+   git clone https://
    ```
 2. **Navigate to the project directory**:
    ```bash
